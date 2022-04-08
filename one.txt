@@ -1,6 +1,7 @@
 hi
 how r u
 hmm
+<<<<<<< HEAD
  <html>
   <style>
    h1 {colour blue font size 400}
@@ -14,3 +15,7 @@ hmm
    </body>
    </html>
 
+=======
+jsfgslrgdfjsfsjfjskf
+sfjkgdsfdk
+>>>>>>> 69faffc543010e68503da1de4c77ae8b5df9cdd4
