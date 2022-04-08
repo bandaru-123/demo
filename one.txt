@@ -15,7 +15,8 @@ hmm
    </body>
    </html>
 
-=======
 jsfgslrgdfjsfsjfjskf
-sfjkgdsfdk
->>>>>>> 69faffc543010e68503da1de4c77ae8b5df9cdd4
+sfjkgdsfd   HEAD
+ 69faffc543010e68503da1de4c77ae8b5df9cdd4
+thirdline save
+ 697229b70501b8b5665739774b24297c2e3abc88
